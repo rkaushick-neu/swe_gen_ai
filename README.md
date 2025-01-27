@@ -31,3 +31,23 @@ The dataset has been obtained from [Kaggle](https://www.kaggle.com/datasets/zala
 
 #### CNN Model #2: Incorrect Predictions
 ![CNN model 2: Incorrect Predictions](./Deep%20Learning%20MNIST/visuals/CNN2_Incorrect_Predictions.png)
+
+### Overall Performance Metrics
+
+| Metric                  | Baseline CNN Model| CNN Model 2      | Improvement |
+|-------------------------|-------------------|------------------|-------------|
+| **Training Accuracy**   | 90.82%            | 99.54%           | **+8.72%**   |
+| **Training Loss**       | 0.2607            | 0.0171           | -0.2436      |
+| **Validation Accuracy** | 89.42%            | 94.41%           | **+5.00%**   |
+| **Validation Loss**     | 0.2952            | 0.1990           | -0.0962      |
+| **Testing Accuracy**    | 89.84%            | 94.24%           | **+4.40%**   |
+| **Testing Loss**        | 0.2901            | 0.2148           | -0.0753      |
+
+### Key Insights:
+- **CNN Model 2** outperforms the **Baseline CNN Model** across all metrics, particularly in **accuracy** and **loss reduction**.
+- Notable class-specific improvements in **T-shirt/Top**, **Pullover**, and **Shirt**, where the F1-scores increased significantly.
+- Slight overfitting in CNN Model 2, but its robust test performance demonstrates strong generalization.
+
+### Conclusion
+
+In conclusion, CNN Model 2 significantly outperforms the Baseline CNN Model, achieving higher accuracy, lower loss, and improved class-wise metrics, particularly in challenging categories. While it shows slight overfitting, its robust test performance demonstrates superior generalization and optimization.
