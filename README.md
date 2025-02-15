@@ -2,8 +2,8 @@
 This repository is for the CSYE 7230: Software Engineering &amp; Generative AI course.
 
 ## Assignments
-1. [Deep Learning models on Fashion MNIST dataset](./Deep%20Learning%20MNIST/)
-2. ...
+1. **Deep Learning models on Fashion MNIST dataset** ([README](#assignment-1-deep-learning-models-on-fashion-mnist-dataset) | Report | [Code](./Deep%20Learning%20MNIST/Rish_Analysis.ipynb))
+2. **Generative Models on the CIFAR-10 dataset** (README | Report | Code)
 
 ## Assignment 1: Deep Learning models on Fashion MNIST dataset
 ### Dataset
@@ -51,3 +51,6 @@ The dataset has been obtained from [Kaggle](https://www.kaggle.com/datasets/zala
 ### Conclusion
 
 In conclusion, CNN Model 2 significantly outperforms the Baseline CNN Model, achieving higher accuracy, lower loss, and improved class-wise metrics, particularly in challenging categories. While it shows slight overfitting, its robust test performance demonstrates superior generalization and optimization.
+
+## Assignment 2: Generative Models on the CIFAR-10 dataset
+WIP
