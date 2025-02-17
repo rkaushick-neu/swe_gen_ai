@@ -53,4 +53,8 @@ The dataset has been obtained from [Kaggle](https://www.kaggle.com/datasets/zala
 In conclusion, CNN Model 2 significantly outperforms the Baseline CNN Model, achieving higher accuracy, lower loss, and improved class-wise metrics, particularly in challenging categories. While it shows slight overfitting, its robust test performance demonstrates superior generalization and optimization.
 
 ## Assignment 2: Generative Models on the CIFAR-10 dataset
-WIP
+### Dataset
+I used the CIFAR-10 dataset which was created by Alex Krizhevsky, Vinod Nair, and Geoffrey Hinton, to work on this image generation project. 
+
+### Visualizing CIFAR-10 Dataset
+![Images from CIFAR-10](./Image%20Generation%20CIFAR-10/visuals/cifar10_classes_images.png)
