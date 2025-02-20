@@ -3,7 +3,7 @@ This repository is for the CSYE 7230: Software Engineering &amp; Generative AI c
 
 ## Assignments
 1. **Deep Learning models on Fashion MNIST dataset** ([README](#assignment-1-deep-learning-models-on-fashion-mnist-dataset) | Report | [Code](./Deep%20Learning%20MNIST/Rish_Analysis.ipynb))
-2. **Generative Models on the CIFAR-10 dataset** (README | Report | Code)
+2. **Generative Models on the CIFAR-10 dataset** ([README](#assignment-2-generative-models-on-the-cifar-10-dataset) | Report | Code)
 
 ## Assignment 1: Deep Learning models on Fashion MNIST dataset
 ### Dataset
@@ -58,3 +58,5 @@ I used the CIFAR-10 dataset which was created by Alex Krizhevsky, Vinod Nair, an
 
 ### Visualizing CIFAR-10 Dataset
 ![Images from CIFAR-10](./Image%20Generation%20CIFAR-10/visuals/cifar10_classes_images.png)
+
+![64 Images from CIFAR-10](./Image%20Generation%20CIFAR-10/visuals/cifar10_64_images.png)
